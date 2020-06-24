@@ -1,0 +1,6 @@
+- Postman
+- Mockapi
+- Axios => trả về Promises: pending, resoleve, reject
+- JS => Bất đồng bộ
+- get list User
+- Add user
