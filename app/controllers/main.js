@@ -53,8 +53,14 @@ getElm("btnThemNguoiDung").addEventListener("click", function() {
     getElm("loaiNguoiDung").value = "";
 });
 
+<<<<<<< HEAD
+
+function themNguoiDung() {
+    console.log("themNguoiDung hphong2");
+=======
 function themNguoiDung() {
     console.log("themNguoiDung");
+>>>>>>> master
 }
 /**Delete */
 function deleteUser(id) {
