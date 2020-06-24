@@ -53,6 +53,10 @@ getElm("btnThemNguoiDung").addEventListener("click", function() {
     getElm("loaiNguoiDung").value = "";
 });
 
+
+function themNguoiDung() {
+    console.log("themNguoiDung hphong2");
+}
 /**Delete */
 function deleteUser(id) {
     nguoiDungServices.xoaNguoiDung(id)
